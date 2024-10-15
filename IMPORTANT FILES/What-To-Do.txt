@@ -1,0 +1,2 @@
+1. Install EVERYTHING from PythonInstall before downloading exerything else.
+2. after installing everything from that folder, you can then install those.
